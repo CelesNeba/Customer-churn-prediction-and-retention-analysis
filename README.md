@@ -48,7 +48,7 @@ You can download the dataset here:
 | `PaymentMethod` | Method used to pay the bill |
 | `MonthlyCharges` | Monthly payment amount |
 | `TotalCharges` | Total amount paid over tenure |
-| `Churn` | Target variable — whether the customer left the service (Yes/No) |
+| `Churn` | Target variable: whether the customer left the service (Yes/No) |
 
 ### 🧠 Usage
 
