@@ -23,3 +23,41 @@ A company is experiencing a decline in revenue due to a high rate of customer ch
 - Visualize insights for business stakeholders.
 
 - Create charts, graphs, and dashboards to highlight churn trends and drivers.
+
+
+
+
+## 📊 Dataset: Customer Churn 2000
+
+The dataset used in this project is a synthetic but realistic dataset of customer behavior and churn for a subscription-based company. It contains **2,000 customer records** with demographic, service, and billing information, which can be used to analyze churn patterns and build predictive models.
+
+### 📥 Download
+You can download the dataset here:  
+[customer_churn_2000.csv](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/customer_churn_2000.csv)
+
+### 🧾 Dataset Description
+
+| Column | Description |
+|--------|-------------|
+| `CustomerID` | Unique identifier for each customer |
+| `Gender` | Customer gender (Male, Female) |
+| `SeniorCitizen` | 0 = No, 1 = Yes |
+| `TenureMonths` | Number of months the customer has stayed with the company |
+| `Contract` | Type of contract (Month-to-month, One year, Two year) |
+| `InternetService` | Type of internet service the customer uses |
+| `PaymentMethod` | Method used to pay the bill |
+| `MonthlyCharges` | Monthly payment amount |
+| `TotalCharges` | Total amount paid over tenure |
+| `Churn` | Target variable — whether the customer left the service (Yes/No) |
+
+### 🧠 Usage
+
+This dataset is suitable for:
+
+- Exploratory data analysis (EDA)  
+- Feature engineering and model training  
+- Churn prediction modeling  
+- Business dashboard and retention analysis
+
+**Note:** The dataset is clean and formatted as CSV, ready to be used in Excel, Jupyter Notebook, or Power BI.
+
