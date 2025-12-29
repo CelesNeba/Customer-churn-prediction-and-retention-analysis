@@ -8,9 +8,9 @@ A company is experiencing a decline in revenue due to a high rate of customer ch
 
 ### Tools to be used in this project
 
-•	Excel / CSV: Store and manage the raw customer churn dataset. Easy to inspect, filter, and export data for analysis.
+1.	Excel / CSV: Store and manage the raw customer churn dataset. Easy to inspect, filter, and export data for analysis.
 
-• Jupyter Notebook (Python):
+2. Jupyter Notebook (Python):
 
 - Perform data cleaning, exploratory data analysis (EDA), and preprocessing.
 
@@ -18,7 +18,7 @@ A company is experiencing a decline in revenue due to a high rate of customer ch
 
 - Document code and visualizations step-by-step.
 
-• Power BI:
+3. Power BI:
 
 - Visualize insights for business stakeholders.
 
