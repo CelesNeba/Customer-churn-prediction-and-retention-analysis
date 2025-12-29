@@ -61,3 +61,88 @@ This dataset is suitable for:
 
 **Note:** The dataset is clean and formatted as CSV, ready to be used in Excel, Jupyter Notebook, or Power BI.
 
+### Data cleaning
+
+- Handle missing values
+
+- Remove duplicates
+
+- Encode target variable
+
+###  Exploratory Data Analysis (EDA)
+
+- Churn Rate
+
+- Plot churn distribution
+
+- Check churn by Key features. Example: by contract type, tenure, or gender:
+
+- Code
+
+
+
+
+
+
+
+
+
+
+
+  #### Churn by Contract Type
+
+
+
+
+
+
+
+  #### Tenure vs Churn
+
+
+
+
+  #### Churn By InternetService
+
+
+
+
+
+
+    #### Monthly Charges vs Churn
+
+
+
+
+
+
+
+  ### Feature preparation for modeling
+
+  - Convert categorical columns
+ 
+
+
+
+
+- Split features & target
+
+
+
+
+
+### Build a simple churn prediction model
+
+- Logistic regression
+
+
+
+- Model evaluation
+
+- Feature importance (Top drivers)
+
+
+### Export results for dashboard
+
+- Save predictions file
+
