@@ -142,6 +142,11 @@ This dataset is suitable for:
 - Feature importance (Top drivers)
 
 
+#### Business insights summary from the model
+
+The churn model’s performance indicates that the current customer data does not yet provide strong enough signals to reliably predict churn. The model correctly identifies some customers at risk, but it also misses many churners, meaning the organization may still lose customers without warning. This suggests that churn is influenced by additional factors that are not yet captured in the dataset. To improve retention outcomes, the business should focus on collecting richer customer behavior data and strengthening churn-related features before relying on predictive automation.
+
+
 ### Export results for dashboard
 
 - Save predictions file
