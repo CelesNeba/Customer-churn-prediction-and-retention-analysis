@@ -174,6 +174,9 @@ This dataset is suitable for:
 
 - Model evaluation
 
+![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/Model%20Evaluation%20image.PNG)
+
+
 - Feature importance (Top drivers)
 
 
