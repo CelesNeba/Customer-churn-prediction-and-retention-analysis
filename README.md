@@ -152,10 +152,7 @@ This dataset is suitable for:
 
   ### Feature preparation for modeling
 
-  - Convert categorical columns
- 
-
-
+  
 
 
 - Split features & target
