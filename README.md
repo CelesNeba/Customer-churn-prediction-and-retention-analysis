@@ -65,6 +65,9 @@ This dataset is suitable for:
 
 - Handle missing values
 
+![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/Handle%20missing%20values.PNG)
+
+
 - Remove duplicates
 
 - Encode target variable
