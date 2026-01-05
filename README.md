@@ -197,8 +197,7 @@ The churn model’s performance indicates that the current customer data does no
 
 - Save predictions file
 
-
-                                          ### Power BI Dashboard
+                ### Power BI Dashboard
 
 
  ![](https://github.com/CelesNeba/Fraud-detection-in-financial-transactions/blob/main/Churn_Analysis_Dashboard.PNG)
