@@ -183,6 +183,9 @@ This dataset is suitable for:
 
 - Feature importance (Top drivers)
 
+![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/Feature%20Importance%20(Top%20Drivers)%20image.PNG)
+
+
 
 #### Business insights summary from the model
 
