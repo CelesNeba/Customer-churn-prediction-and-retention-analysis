@@ -141,6 +141,9 @@ This dataset is suitable for:
 
     #### Monthly Charges vs Churn
 
+    ![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/churn%20by%20monthly%20charges%20bar%20chart.PNG)
+
+
 
 
 
