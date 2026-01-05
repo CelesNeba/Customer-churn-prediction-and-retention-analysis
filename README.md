@@ -123,6 +123,11 @@ This dataset is suitable for:
 
 
 
+  ![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/Tenue%20vs%20churn%20chart.PNG)
+
+
+
+
 
   #### Churn By InternetService
 
