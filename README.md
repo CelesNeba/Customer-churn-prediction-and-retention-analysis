@@ -177,6 +177,10 @@ This dataset is suitable for:
 ![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/Model%20Evaluation%20image.PNG)
 
 
+![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/Model%20Evaluation%20image2.PNG)
+
+
+
 - Feature importance (Top drivers)
 
 
