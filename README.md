@@ -157,6 +157,9 @@ This dataset is suitable for:
 
 - Split features & target
 
+  ![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/Split%20Features%20%26%20Target%20image.PNG)
+
+
 
 
 
