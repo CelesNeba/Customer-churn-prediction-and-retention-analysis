@@ -110,6 +110,9 @@ This dataset is suitable for:
 
   #### Churn by Contract Type
 
+  ![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/churn%20by%20contract%20typ%20bar%20chart.PNG)
+
+
 
 
 
