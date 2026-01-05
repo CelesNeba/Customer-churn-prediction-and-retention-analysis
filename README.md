@@ -131,6 +131,9 @@ This dataset is suitable for:
 
   #### Churn By InternetService
 
+  ![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/churn%20by%20intenet%20service%20bar%20chart.PNG)
+
+
 
 
 
