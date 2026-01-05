@@ -75,6 +75,9 @@ This dataset is suitable for:
 
 - Encode target variable
 
+![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/Encode%20target%20variables.PNG)
+
+
 ###  Exploratory Data Analysis (EDA)
 
 - Churn Rate
