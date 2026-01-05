@@ -70,6 +70,9 @@ This dataset is suitable for:
 
 - Remove duplicates
 
+![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/drop%20duplicates.PNG)
+
+
 - Encode target variable
 
 ###  Exploratory Data Analysis (EDA)
