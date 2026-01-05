@@ -168,6 +168,8 @@ This dataset is suitable for:
 
 - Logistic regression
 
+![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/Logistic%20regression%20image.PNG)
+
 
 
 - Model evaluation
