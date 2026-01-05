@@ -92,7 +92,11 @@ This dataset is suitable for:
 
 - Check churn by Key features. Example: by contract type, tenure, or gender:
 
-- Code
+- Code:
+
+
+![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/Churn%20by%20key%20features%20code.PNG)
+
 
 
 
