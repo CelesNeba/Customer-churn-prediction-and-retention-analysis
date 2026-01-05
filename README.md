@@ -108,7 +108,7 @@ This dataset is suitable for:
 
 
 
-  #### Churn by Contract Type
+ -  #### Churn by Contract Type
 
   ![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/churn%20by%20contract%20typ%20bar%20chart.PNG)
 
@@ -119,7 +119,7 @@ This dataset is suitable for:
 
 
 
-  #### Tenure vs Churn
+  - #### Tenure vs Churn
 
 
 
@@ -129,7 +129,7 @@ This dataset is suitable for:
 
 
 
-  #### Churn By InternetService
+  - #### Churn By InternetService
 
   ![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/churn%20by%20intenet%20service%20bar%20chart.PNG)
 
@@ -137,7 +137,7 @@ This dataset is suitable for:
 
 
 
-#### Churn by monthly charges 
+- #### Churn by monthly charges 
 
 ![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/churn%20by%20monthly%20charges%20bar%20chart.PNG)
 
