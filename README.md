@@ -87,6 +87,9 @@ This dataset is suitable for:
 
 - Plot churn distribution
 
+![](https://github.com/CelesNeba/Customer-churn-prediction-and-retention-analysis/blob/main/Churn%20distribution.PNG)
+
+
 - Check churn by Key features. Example: by contract type, tenure, or gender:
 
 - Code
